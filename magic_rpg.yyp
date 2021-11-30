@@ -4,6 +4,7 @@
     {"id":{"name":"spr_plains","path":"sprites/spr_plains/spr_plains.yy",},"order":2,},
     {"id":{"name":"ts_plains","path":"tilesets/ts_plains/ts_plains.yy",},"order":0,},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":0,},
+    {"id":{"name":"spr_enemy_ghost","path":"sprites/spr_enemy_ghost/spr_enemy_ghost.yy",},"order":4,},
     {"id":{"name":"spr_mage","path":"sprites/spr_mage/spr_mage.yy",},"order":1,},
     {"id":{"name":"obj_mage","path":"objects/obj_mage/obj_mage.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -11,6 +12,8 @@
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,
@@ -46,7 +49,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.6.595",
   },
   "resourceVersion": "1.4",
   "name": "magic_rpg",
